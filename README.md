@@ -8,3 +8,4 @@ Future Improvements:
 - Cleaner UI
 - Change this project to "List all closed pull requests by current user"
 - Group PRs with respect to users
+- Implement infinite scrolling design
